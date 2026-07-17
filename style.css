@@ -1,0 +1,18 @@
+* {
+    font-family: "Roboto", sans-serif;
+}
+
+.top-headers {
+    display: flex;
+}
+
+.hero-and-footer {
+    background-color: #1F2937;
+    color: #E5E7EB;
+    margin: -10px;
+}
+
+.hero-main-text {
+    font-size: 48px;
+    font-weight: 900;
+}
