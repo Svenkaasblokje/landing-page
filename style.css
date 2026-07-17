@@ -17,7 +17,8 @@
     display: flex;
     gap: 25px;
     margin-top: 10px;
-    align-items: right;
+    margin-left: auto;
+    margin-right: 14.5%;
 }
 
 .hero-and-footer {
@@ -33,7 +34,7 @@
 
 .main-text {
     margin-left: 15%;
-    margin-right: 55%;
+    width: 35%
 }
 
 .sign-up-button {
@@ -45,4 +46,17 @@
     margin-top: 10px;
     border: 0;
     font-weight: 700;
+}
+
+.main {
+    display: flex;
+    margin-top: 10px;
+}
+
+.image {
+    margin-right: 14.5%;
+    background-color: #6D747D;
+    height: 230px;
+    width: 600px;
+    margin-left: 10px;
 }
