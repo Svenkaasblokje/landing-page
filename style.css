@@ -108,3 +108,23 @@
     border: 3px solid #3882F6;
     border-radius: 15px;
 }
+
+.quote {
+    background-color: #E5E7EB;
+    height: 300px;
+    margin-top: 50px;
+}
+
+.quote-text {
+    padding-top: 80px;
+    font: 36px #1F2937;
+    font-weight: 300;
+    width: 40%;
+    font-style: italic;
+    margin-left: 30%;
+}
+
+.thor {
+    margin-left: 60%;
+    font-weight: 700;
+}
