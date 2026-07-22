@@ -1,1 +1,2 @@
-# landing-page
+# Landing Page
+I learned a lot from this project, the first thing is that css is not as easy as I thought and it takes way more time to build a small website. Now I have a basic understanding of how flexbox works and how css works.
